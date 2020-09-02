@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1wQn4YayyeSH93l9CPcHlcOIbFYEZrnfNvx4dUFhf3v4dv/dFHYW/sU/PCNXVkjb6afLTc8mx5Mi+3JkUJ63Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LiZhiqiang\\Desktop\\UserTimeEditer\\UserTimeEditer\\UserTimeEditer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LiZhiqiang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\LiZhiqiang\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\LiZhiqiang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
